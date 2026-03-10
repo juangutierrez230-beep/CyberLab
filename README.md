@@ -40,4 +40,9 @@ Status: 📝 In Progress
 - [ ] Troubleshooting Methodology (6-step process)
 - [ ] Using specialized tools (Multimeters, Cable testers)
 
-
+Resource,Type,Why it's good
+Professor Messer,Video Course,"The ""Gold Standard"" for free A+ training."
+BurningIce Tech,YouTube Labs,Great walkthroughs for Core 1 hardware/networking.
+Crucial Exams,Practice Tests,Excellent mobile-friendly practice questions.
+ExamCompass,Topical Quizzes,"Good for drilling specific topics (Port numbers, RAM)."
+LabEx / TryHackMe,Interactive Labs,Hands-on Linux and networking practice.
